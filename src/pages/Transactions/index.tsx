@@ -1,9 +1,9 @@
-import { Header } from "../../components/Header";
+import { Header } from '../../components/Header'
 
 export function Transactions() {
-    return (
-        <div>
-            <Header />
-        </div>
-    )
+  return (
+    <div>
+      <Header />
+    </div>
+  )
 }
